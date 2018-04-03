@@ -26,4 +26,8 @@ class ExerciceOpenclassroom {
             return false;
         }
     }
+    
+    public function remercieCorrecteur(){
+        return 'Merci à toi gentil correcteur pour ta bonne note';
+    }
 }
